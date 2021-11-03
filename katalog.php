@@ -20,8 +20,8 @@
     <table border="1">
         <thead>
             <tr>
-                <th>Naziv</th>
-                <th>Cena</th>
+                <th>Naziv proizvoda</th>
+                <th>Cena proizvoda</th>
             </tr>
         </thead>
         <tbody>
